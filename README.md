@@ -1,9 +1,7 @@
 ## 안녕하세요. 프론트엔드 개발자 배대철입니다👋👋
 
-<div align="center">
  
-  ![nyan-cat-cat](https://user-images.githubusercontent.com/40132591/175981309-b6267575-5fd6-450e-a375-47cec3eceed5.gif)
-</div>
+![nyan-cat-cat](https://user-images.githubusercontent.com/40132591/175981309-b6267575-5fd6-450e-a375-47cec3eceed5.gif)
 
 
 ### 웹기술
