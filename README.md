@@ -2,8 +2,13 @@
 
 
 ## Skills
-<br/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/JavaScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/> <img alt="HTML5" src ="https://img.shields.io/badge/JavaScript-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
+
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> 
+<img alt="TypeScript" src ="https://img.shields.io/badge/JavaScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/> 
+<img alt="HTML5" src ="https://img.shields.io/badge/JavaScript-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> 
+<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
+
+
 <br/>
 
 
@@ -12,7 +17,7 @@
 
 ## Contact
 <br/>
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blog&link=https://aingface.tistory.com/)](https://aingface.tistory.com/)
+
 
 
 
