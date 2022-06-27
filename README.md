@@ -1,9 +1,15 @@
 ## 안녕하세요 프론트엔드 개발자 배대철입니다👋👋
 
 
+## Skills
+<br/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 
 
 
+
+## Contact
+<br/>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blog&link=https://aingface.tistory.com/)](https://aingface.tistory.com/)
 
 
