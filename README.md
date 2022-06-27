@@ -3,7 +3,7 @@
 
 ## Skills
 <br/>
-<img alt="JS" src ="https://img.shields.io/badge/JS-#F7DF1E.svg?&style=for-the-badge&logo=JS&logoColor=white"/>
+<img alt="JS" src ="https://img.shields.io/badge/JavaScript-#F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 
 
 
