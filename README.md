@@ -4,7 +4,7 @@
 
 
 
-[![Tech blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blog&link=https://aingface.tistory.com/)](https://aingface.tistory.com/)
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Blog&link=https://aingface.tistory.com/)](https://aingface.tistory.com/)
 
 
 
