@@ -3,8 +3,8 @@
 
 ## Skills
 <br/>
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-<img alt="TypeScript" src ="https://img.shields.io/badge/JavaScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/JavaScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+
 
 
 
