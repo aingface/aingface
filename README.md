@@ -1,6 +1,6 @@
 ## 안녕하세요. 프론트엔드 개발자 배대철입니다👋👋
 
-![Faber est suae quisque fortunae](https://user-images.githubusercontent.com/40132591/175978780-cbe1a86a-f16c-4316-aa88-527b06a98954.gif)
+![SxQ](https://user-images.githubusercontent.com/40132591/175980677-68cf8f01-77eb-4d20-9d8a-923b5841ff23.gif)
 
 
 
