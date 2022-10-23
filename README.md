@@ -4,22 +4,8 @@
 ![nyan-cat-cat](https://user-images.githubusercontent.com/40132591/175981309-b6267575-5fd6-450e-a375-47cec3eceed5.gif)
 
 ## Front-end skills
+- React-Native,React 
 
-<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=white"/> <img alt="TypeScript" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/> 
-<img alt="HTML5" src ="https://img.shields.io/badge/JavaScript-E34F26.svg?&style=flat-square&logo=HTML5&logoColor=white"/> 
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat-square&logo=CSS3&logoColor=white"/>
-<br/>
-
-## Library & Fameworks
-<img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=flat-square&logo=React&logoColor=white"/> <img alt="Next.js" src ="https://img.shields.io/badge/Next-000000.svg?&style=flat-square&logo=Next.js&logoColor=white"/>
-
-
-## CSS Frameworks
-<img alt="MUI" src ="https://img.shields.io/badge/MUI-007FFF.svg?&style=flat-square&logo=MUI&logoColor=white"/> <img alt="Ant Design" src ="https://img.shields.io/badge/Ant Design-0170FE.svg?&style=flat-square&logo=Ant Design&logoColor=white"/> <img alt="Tailwind CSS" src ="https://img.shields.io/badge/Tailwind CSS-A8B9CC.svg?&style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img alt="Apex Charts" src ="https://img.shields.io/badge/Apex Charts-106aef.svg?&style=flat-square&logo=Apex Charts&logoColor=white"/> 
-<br/>
-### Etc Language
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=flat-square&logo=C&logoColor=white"/> <img alt="Java" src ="https://img.shields.io/badge/Java-3b6185.svg?&style=flat-square&logo=JAVA&logoColor=white"/>
-<br/>
 ## Contact<br/>
  [블로그](https://aingface.tistory.com/)
  
