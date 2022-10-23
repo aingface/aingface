@@ -7,6 +7,11 @@
 - React-Native
 - React 
 
+
+## 소개
+
+내 것으로 만들기 위해 꾸준히 코딩을 할거에요!
+
 ## Contact<br/>
  [블로그](https://aingface.tistory.com/)
  
