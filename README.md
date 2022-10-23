@@ -4,7 +4,8 @@
 ![nyan-cat-cat](https://user-images.githubusercontent.com/40132591/175981309-b6267575-5fd6-450e-a375-47cec3eceed5.gif)
 
 ## Front-end skills
-- React-Native,React 
+- React-Native
+- React 
 
 ## Contact<br/>
  [블로그](https://aingface.tistory.com/)
