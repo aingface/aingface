@@ -1,4 +1,4 @@
-## 안녕하세요. FE개발자 배대철입니다👋👋
+## 안녕하세요. FE개발자 배대철입니다
 <br/>
 
 ![nyan-cat-cat](https://user-images.githubusercontent.com/40132591/175981309-b6267575-5fd6-450e-a375-47cec3eceed5.gif)
@@ -6,22 +6,16 @@
 ## Front-end skills
 - React-Native
 - React 
-
+<br/>
 
 ## 소개
 
-- 꾸준히 합시다
+- https://aingface.github.io/my-resume/
+<br/>
 
 ## Contact<br/>
  [블로그](https://aingface.tistory.com/)
  
-
-
-
-
-
-
-
 
 <br/><br/><br/>
 
