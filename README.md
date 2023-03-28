@@ -6,12 +6,9 @@
 ## Front-end skills
 - React-Native
 - React 
+- JavaScript/TypeScript
 <br/>
 
-## 소개
-
-- https://aingface.github.io/my-resume/
-<br/>
 
 ## Contact<br/>
  [블로그](https://aingface.tistory.com/)
